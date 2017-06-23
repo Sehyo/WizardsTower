@@ -1,0 +1,8 @@
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\LeWizardsTower\AwesomePlatformer\AwesomePlatformerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\LeWizardsTower\WizardsTower\WizardsTowerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\suk11mattias\Desktop\Skrivbord\WTAlphaGameplay0.00002\WizardsTowerGame\WizardsTower\WizardsTowerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\suk11mattias\Desktop\Skrivbord\WTAlphaGameplay0.00003\WizardsTowerGame\WizardsTower\WizardsTowerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTowerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\suk11mattias\Desktop\Skrivbord\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTowerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTowerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTowerContent\obj\x86\Debug\ResolveAssemblyReference.cache

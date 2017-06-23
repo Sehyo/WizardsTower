@@ -1,0 +1,366 @@
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Fonts\Font.xnb
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\TileSheets\spriteSheet1.xnb
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.xnb
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\Arrows.xnb
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Afk.xnb
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.PNG
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Levels\MAP000.MAP
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe.manifest
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.application
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.pdb
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.exe
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.pdb
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe.manifest
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.application
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.pdb
+C:\Users\Tarro\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Fonts\Font.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\TileSheets\spriteSheet1.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\Arrows.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Afk.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.PNG
+C:\Users\Tarro\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Levels\MAP000.MAP
+C:\Users\Tarro\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe.manifest
+C:\Users\Tarro\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.application
+C:\Users\Tarro\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe
+C:\Users\Tarro\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.pdb
+C:\Users\Tarro\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.exe
+C:\Users\Tarro\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.pdb
+C:\Users\Tarro\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tarro\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tarro\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe.manifest
+C:\Users\Tarro\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.application
+C:\Users\Tarro\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe
+C:\Users\Tarro\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.pdb
+C:\Users\suk11alex\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Fonts\Font.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\TileSheets\spriteSheet1.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\Arrows.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Afk.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.PNG
+C:\Users\suk11alex\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Levels\MAP000.MAP
+C:\Users\suk11alex\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe.manifest
+C:\Users\suk11alex\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.application
+C:\Users\suk11alex\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe
+C:\Users\suk11alex\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.pdb
+C:\Users\suk11alex\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.exe
+C:\Users\suk11alex\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.pdb
+C:\Users\suk11alex\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suk11alex\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\suk11alex\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe.manifest
+C:\Users\suk11alex\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.application
+C:\Users\suk11alex\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe
+C:\Users\suk11alex\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.pdb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Fonts\Font.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\TileSheets\spriteSheet1.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\Arrows.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Afk.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.PNG
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Levels\MAP000.MAP
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe.manifest
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.application
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.pdb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.exe
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.pdb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe.manifest
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.application
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.pdb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Fonts\Font.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\TileSheets\spriteSheet1.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\Arrows.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Afk.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.PNG
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Levels\MAP000.MAP
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe.manifest
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.application
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.pdb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.exe
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.pdb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe.manifest
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.application
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.pdb
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.pdb
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Fonts\Font.xnb
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\TileSheets\spriteSheet1.xnb
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.xnb
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\Arrows.xnb
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Afk.xnb
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.PNG
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Levels\MAP000.MAP
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe.manifest
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.application
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.exe
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.pdb
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe.manifest
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.application
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Fonts\Font.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\TileSheets\spriteSheet1.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\Arrows.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Afk.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.PNG
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Levels\MAP000.MAP
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe.manifest
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.application
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.pdb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.exe
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.pdb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe.manifest
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.application
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.pdb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\attackbutton.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\movebutton.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Fonts\Font.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\TileSheets\spriteSheet1.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\Arrows.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Afk.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\attackbutton.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\movebutton.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.PNG
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Levels\MAP000.MAP
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe.manifest
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.application
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.pdb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.exe
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.pdb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe.manifest
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.application
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.pdb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Fonts\Font.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\TileSheets\spriteSheet1.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\Arrows.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Afk.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\attackbutton.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\movebutton.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.PNG
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Levels\MAP000.MAP
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe.manifest
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.application
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.pdb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.exe
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.pdb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe.manifest
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.application
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.pdb
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Fonts\Font.xnb
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\TileSheets\spriteSheet1.xnb
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.xnb
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\Arrows.xnb
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Afk.xnb
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\attackbutton.xnb
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\movebutton.xnb
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.PNG
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Levels\MAP000.MAP
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe.manifest
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.application
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.pdb
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.exe
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.pdb
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe.manifest
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.application
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.pdb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\blackLine.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\blackLine.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\invisLine.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Effects\AlphaMap.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\whiteLine.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Effects\AlphaMap.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Fonts\Font.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\TileSheets\spriteSheet1.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\Arrows.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\attackbutton.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\movebutton.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\blackLine.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\invisLine.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\whiteLine.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.PNG
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Levels\MAP000.MAP
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe.manifest
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.application
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.pdb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.exe
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.pdb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe.manifest
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.application
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.pdb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\blackBox.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\yellowLine.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Effects\AlphaMap.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Fonts\Font.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\TileSheets\spriteSheet1.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\Arrows.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\attackbutton.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\movebutton.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\blackLine.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\invisLine.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\whiteLine.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\blackBox.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\yellowLine.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.PNG
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Levels\MAP000.MAP
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe.manifest
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.application
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.pdb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.exe
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.pdb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe.manifest
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.application
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.pdb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Knight.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Monk.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Thief.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\MiniWizard.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Wizard.xnb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\BKnight.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Knight.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Monk.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Thief.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\MiniWizard.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Wizard.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\BKnight.xnb
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Monsters\Hydra.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Effects\AlphaMap.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Fonts\Font.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\TileSheets\spriteSheet1.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\Arrows.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Knight.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\attackbutton.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\movebutton.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\blackLine.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\invisLine.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\whiteLine.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\blackBox.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\yellowLine.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Monk.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Thief.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\MiniWizard.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Wizard.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\BKnight.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Monsters\Hydra.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.PNG
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Levels\MAP000.MAP
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe.manifest
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.application
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.pdb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.exe
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.pdb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe.manifest
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.application
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.pdb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Effects\AlphaMap.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Fonts\Font.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\TileSheets\spriteSheet1.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\Arrows.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Knight.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\attackbutton.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\movebutton.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\blackLine.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\invisLine.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\whiteLine.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\blackBox.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\yellowLine.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Monk.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Thief.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\MiniWizard.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Wizard.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\BKnight.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Monsters\Hydra.xnb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.PNG
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Levels\MAP000.MAP
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe.manifest
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.application
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.pdb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.exe
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.pdb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe.manifest
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.application
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.pdb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Effects\AlphaMap.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Fonts\Font.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\TileSheets\spriteSheet1.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\Arrows.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Knight.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\attackbutton.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\movebutton.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\blackLine.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\invisLine.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\whiteLine.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\blackBox.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\yellowLine.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Monk.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Thief.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\MiniWizard.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Wizard.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\BKnight.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Monsters\Hydra.xnb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.PNG
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Levels\MAP000.MAP
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe.manifest
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.application
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.exe
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\WizardsTower.pdb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.exe
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Tile Engine.pdb
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe.manifest
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.application
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.exe
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\WizardsTower.pdb

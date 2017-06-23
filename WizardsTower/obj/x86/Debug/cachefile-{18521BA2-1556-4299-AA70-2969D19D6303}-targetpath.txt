@@ -1,0 +1,9 @@
+Content\Fonts\Font.xnb
+Content\Textures\TileSheets\spriteSheet1.xnb
+Content\Textures\PlatformTiles.xnb
+Content\Textures\UInHUD\Arrows.xnb
+Content\Textures\Sprites\Player\Afk.xnb
+Content\Textures\UInHUD\attackbutton.xnb
+Content\Textures\UInHUD\movebutton.xnb
+Content\Textures\PlatformTiles.PNG
+Content\Levels\MAP000.MAP

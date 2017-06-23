@@ -1,0 +1,15 @@
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTowerContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tarro\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTowerContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suk11alex\Dropbox\Wizards Tower\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTowerContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTowerContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTowerContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTowerContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0007\WTAlphaGameplay0.00006\WizardsTowerGame\WizardsTower\WizardsTowerContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTowerContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTowerContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTowerContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTowerContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suk11alex\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTowerContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011\WizardsTowerGame\WizardsTower\WizardsTowerContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00011b\WizardsTowerGame\WizardsTower\WizardsTowerContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tarro\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.00011bb\WizardsTowerGame\WizardsTower\WizardsTowerContent\obj\x86\Release\ResolveAssemblyReference.cache

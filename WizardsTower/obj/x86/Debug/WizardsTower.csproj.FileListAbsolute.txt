@@ -1,0 +1,138 @@
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Nugget.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\MonsterA\Idle.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\MonsterB\Idle.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\MonsterC\Idle.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\MonsterD\Idle.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\Nugget.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\Player\CelebrateBack.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\Player\DeathBack.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\Player\AfkBack.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\Player\JumpBack.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\healthbar.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\Player\AfkOld.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\Player\Celebrate.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\Player\Death.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Run.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\MonsterC\Run2.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\Player\goingDownDaPipe.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\titleScreen.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\saberSwing.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\Player\SprintOlds.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\saberAFK.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\MonsterA\Run.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\MonsterB\Run.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\MonsterD\Run.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\PlatformTilesHTPO.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\MonsterC\Run.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\Player\RunOldAlexAnimation.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\Player\Jump.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\Player\Afk.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\PlatformTiles.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\Player\Run.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\CutsceneStuff\cutscene.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\MonsterA\Die.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\MonsterB\Die.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\MonsterC\Die.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\MonsterD\Die.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\gameoverScreen.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\MonsterE\Die.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\MonsterE\Idle.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\Sprites\MonsterE\Run.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Fonts\Font.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Sounds\die.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Sounds\backgroundMusic.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Sounds\introTheme.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Sounds\000.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Sounds\levelMusic.xnb
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\PlatformTilesHTPO.png
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Textures\PlatformTiles.png
+C:\Users\suk11alex\Desktop\AwesomePlatformer\Content\Levels\MAP000.MAP
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\LeWizardsTower\AwesomePlatformer\AwesomePlatformer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\LeWizardsTower\AwesomePlatformer\AwesomePlatformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\suk11alex\Desktop\AwesomePlatformer\WizardsTower.exe.manifest
+C:\Users\suk11alex\Desktop\AwesomePlatformer\WizardsTower.application
+C:\Users\suk11alex\Desktop\AwesomePlatformer\WizardsTower.exe
+C:\Users\suk11alex\Desktop\AwesomePlatformer\WizardsTower.pdb
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\LeWizardsTower\AwesomePlatformer\AwesomePlatformer\obj\x86\Debug\WizardsTower.exe.manifest
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\LeWizardsTower\AwesomePlatformer\AwesomePlatformer\obj\x86\Debug\WizardsTower.application
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\LeWizardsTower\AwesomePlatformer\AwesomePlatformer\obj\x86\Debug\WizardsTower.exe
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\LeWizardsTower\AwesomePlatformer\AwesomePlatformer\obj\x86\Debug\WizardsTower.pdb
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\LeWizardsTower\WizardsTower\WizardsTower\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\LeWizardsTower\WizardsTower\WizardsTower\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\LeWizardsTower\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.exe
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\LeWizardsTower\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.pdb
+C:\Users\suk11alex\Desktop\WizardsTower\Content\Fonts\Font.xnb
+C:\Users\suk11alex\Desktop\WizardsTower\Content\Textures\CutsceneStuff\cutscene.xnb
+C:\Users\suk11alex\Desktop\WizardsTower\Content\Levels\MAP000.MAP
+C:\Users\suk11alex\Desktop\WizardsTower\WizardsTower.exe.manifest
+C:\Users\suk11alex\Desktop\WizardsTower\WizardsTower.application
+C:\Users\suk11alex\Desktop\WizardsTower\WizardsTower.exe
+C:\Users\suk11alex\Desktop\WizardsTower\WizardsTower.pdb
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\LeWizardsTower\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.exe.manifest
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\LeWizardsTower\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.application
+C:\Users\suk11mattias\Desktop\Skrivbord\WTAlphaGameplay0.00002\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\suk11mattias\Desktop\Skrivbord\WTAlphaGameplay0.00002\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\suk11mattias\Desktop\Skrivbord\WTAlphaGameplay0.00002\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.exe
+C:\Users\suk11mattias\Desktop\WizardsTower\Content\Fonts\Font.xnb
+C:\Users\suk11mattias\Desktop\WizardsTower\Content\Levels\MAP000.MAP
+C:\Users\suk11mattias\Desktop\WizardsTower\WizardsTower.exe.manifest
+C:\Users\suk11mattias\Desktop\WizardsTower\WizardsTower.application
+C:\Users\suk11mattias\Desktop\WizardsTower\WizardsTower.exe
+C:\Users\suk11mattias\Desktop\WizardsTower\WizardsTower.pdb
+C:\Users\suk11mattias\Desktop\Skrivbord\WTAlphaGameplay0.00002\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.exe.manifest
+C:\Users\suk11mattias\Desktop\Skrivbord\WTAlphaGameplay0.00002\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.application
+C:\Users\suk11mattias\Desktop\Skrivbord\WTAlphaGameplay0.00002\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.pdb
+C:\Users\suk11mattias\Desktop\WizardsTower\Content\Textures\TileSheets\spriteSheet1.xnb
+C:\Users\suk11mattias\Desktop\WizardsTower\Content\Textures\PlatformTiles.xnb
+C:\Users\suk11mattias\Desktop\WizardsTower\Content\Textures\PlatformTiles.PNG
+C:\Users\suk11mattias\Desktop\Skrivbord\WTAlphaGameplay0.00003\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\suk11mattias\Desktop\Skrivbord\WTAlphaGameplay0.00003\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\suk11mattias\Desktop\Skrivbord\WTAlphaGameplay0.00003\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.exe.manifest
+C:\Users\suk11mattias\Desktop\Skrivbord\WTAlphaGameplay0.00003\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.application
+C:\Users\suk11mattias\Desktop\Skrivbord\WTAlphaGameplay0.00003\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.exe
+C:\Users\suk11mattias\Desktop\Skrivbord\WTAlphaGameplay0.00003\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.pdb
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.exe
+C:\Users\suk11mattias\Desktop\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.pdb
+C:\Users\suk11mattias\Desktop\WizardsTower\Content\Textures\Sprites\Player\Afk.xnb
+C:\Users\suk11mattias\Desktop\Skrivbord\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\suk11mattias\Desktop\Skrivbord\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\suk11mattias\Desktop\Skrivbord\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.exe.manifest
+C:\Users\suk11mattias\Desktop\Skrivbord\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.application
+C:\Users\suk11mattias\Desktop\Skrivbord\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.exe
+C:\Users\suk11mattias\Desktop\Skrivbord\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.pdb
+C:\Users\suk11alex\Documents\Desktop\WizardsTower\Content\Fonts\Font.xnb
+C:\Users\suk11alex\Documents\Desktop\WizardsTower\Content\Textures\TileSheets\spriteSheet1.xnb
+C:\Users\suk11alex\Documents\Desktop\WizardsTower\Content\Textures\PlatformTiles.xnb
+C:\Users\suk11alex\Documents\Desktop\WizardsTower\Content\Textures\Sprites\Player\Afk.xnb
+C:\Users\suk11alex\Documents\Desktop\WizardsTower\Content\Textures\PlatformTiles.PNG
+C:\Users\suk11alex\Documents\Desktop\WizardsTower\Content\Levels\MAP000.MAP
+C:\Users\suk11alex\Documents\Desktop\WizardsTower\WizardsTower.exe.manifest
+C:\Users\suk11alex\Documents\Desktop\WizardsTower\WizardsTower.application
+C:\Users\suk11alex\Documents\Desktop\WizardsTower\WizardsTower.exe
+C:\Users\suk11alex\Documents\Desktop\WizardsTower\WizardsTower.pdb
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.exe.manifest
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.application
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.exe
+C:\Users\suk11alex\Documents\Visual Studio 2010\Projects\WTAlphaGameplay0.00005\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.pdb
+C:\Users\suk11alex\Documents\Desktop\WizardsTower\Content\Textures\UInHUD\Arrows.xnb
+C:\Users\suk11mattias\Dropbox\Desktop\WizardsTower\Content\Fonts\Font.xnb
+C:\Users\suk11mattias\Dropbox\Desktop\WizardsTower\Content\Textures\TileSheets\spriteSheet1.xnb
+C:\Users\suk11mattias\Dropbox\Desktop\WizardsTower\Content\Textures\PlatformTiles.xnb
+C:\Users\suk11mattias\Dropbox\Desktop\WizardsTower\Content\Textures\UInHUD\Arrows.xnb
+C:\Users\suk11mattias\Dropbox\Desktop\WizardsTower\Content\Textures\Sprites\Player\Afk.xnb
+C:\Users\suk11mattias\Dropbox\Desktop\WizardsTower\Content\Textures\UInHUD\attackbutton.xnb
+C:\Users\suk11mattias\Dropbox\Desktop\WizardsTower\Content\Textures\UInHUD\movebutton.xnb
+C:\Users\suk11mattias\Dropbox\Desktop\WizardsTower\Content\Textures\PlatformTiles.PNG
+C:\Users\suk11mattias\Dropbox\Desktop\WizardsTower\Content\Levels\MAP000.MAP
+C:\Users\suk11mattias\Dropbox\Desktop\WizardsTower\WizardsTower.exe.manifest
+C:\Users\suk11mattias\Dropbox\Desktop\WizardsTower\WizardsTower.application
+C:\Users\suk11mattias\Dropbox\Desktop\WizardsTower\WizardsTower.exe
+C:\Users\suk11mattias\Dropbox\Desktop\WizardsTower\WizardsTower.pdb
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.exe.manifest
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.application
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.exe
+C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTAlphaGameplay0.0009\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Debug\WizardsTower.pdb

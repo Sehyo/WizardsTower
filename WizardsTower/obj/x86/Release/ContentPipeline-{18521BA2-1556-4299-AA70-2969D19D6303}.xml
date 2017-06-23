@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Effects\AlphaMap.fx</Source>
+      <Name>Effects\AlphaMap</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Effects\AlphaMap.xnb</Output>
+      <Time>2012-02-17T22:42:35.1627631+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Font.spritefont</Source>
+      <Name>Fonts\Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Fonts\Font.xnb</Output>
+      <Time>2012-03-03T00:14:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TileSheets\spriteSheet1.PNG</Source>
+      <Name>Textures\TileSheets\spriteSheet1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\TileSheets\spriteSheet1.xnb</Output>
+      <Time>2012-12-11T12:48:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PlatformTiles.PNG</Source>
+      <Name>Textures\PlatformTiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\PlatformTiles.xnb</Output>
+      <Time>2013-01-29T13:21:49+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UInHUD\Arrows.PNG</Source>
+      <Name>Textures\UInHUD\Arrows</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\Arrows.xnb</Output>
+      <Time>2013-01-16T11:37:55+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Knight.PNG</Source>
+      <Name>Textures\Sprites\Player\Knight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Knight.xnb</Output>
+      <Time>2013-01-18T14:17:15+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UInHUD\attackbutton.png</Source>
+      <Name>Textures\UInHUD\attackbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\attackbutton.xnb</Output>
+      <Time>2013-01-25T15:13:53+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UInHUD\movebutton.png</Source>
+      <Name>Textures\UInHUD\movebutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\movebutton.xnb</Output>
+      <Time>2013-01-25T15:15:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Lines\blackLine.png</Source>
+      <Name>Textures\Sprites\Lines\blackLine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\blackLine.xnb</Output>
+      <Time>2013-02-06T11:19:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Lines\invisLine.png</Source>
+      <Name>Textures\Sprites\Lines\invisLine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\invisLine.xnb</Output>
+      <Time>2013-02-06T14:03:05+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Lines\whiteLine.png</Source>
+      <Name>Textures\Sprites\Lines\whiteLine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\whiteLine.xnb</Output>
+      <Time>2013-02-06T15:11:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\blackBox.png</Source>
+      <Name>Textures\Sprites\blackBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\blackBox.xnb</Output>
+      <Time>2013-02-06T18:03:15+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Lines\yellowLine.PNG</Source>
+      <Name>Textures\Sprites\Lines\yellowLine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Lines\yellowLine.xnb</Output>
+      <Time>2013-02-07T09:07:05+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Monk.png</Source>
+      <Name>Textures\Sprites\Player\Monk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Monk.xnb</Output>
+      <Time>2013-02-08T14:05:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Thief.png</Source>
+      <Name>Textures\Sprites\Player\Thief</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Thief.xnb</Output>
+      <Time>2013-02-08T14:05:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\MiniWizard.png</Source>
+      <Name>Textures\Sprites\Player\MiniWizard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\MiniWizard.xnb</Output>
+      <Time>2013-02-08T14:10:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Wizard.png</Source>
+      <Name>Textures\Sprites\Player\Wizard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\Wizard.xnb</Output>
+      <Time>2013-02-08T14:10:19+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\BKnight.png</Source>
+      <Name>Textures\Sprites\Player\BKnight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Player\BKnight.xnb</Output>
+      <Time>2013-02-08T14:19:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Monsters\Hydra.png</Source>
+      <Name>Textures\Sprites\Monsters\Hydra</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Monsters\Hydra.xnb</Output>
+      <Time>2013-02-08T15:09:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\TileEffects\fire.png</Source>
+      <Name>Textures\Sprites\TileEffects\fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\TileEffects\fire.xnb</Output>
+      <Time>2013-02-22T13:02:35+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\TileEffects\newFire.PNG</Source>
+      <Name>Textures\Sprites\TileEffects\newFire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\TileEffects\newFire.xnb</Output>
+      <Time>2013-02-22T14:22:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UInHUD\greenbox.PNG</Source>
+      <Name>Textures\UInHUD\greenbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\greenbox.xnb</Output>
+      <Time>2013-03-04T12:09:29+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UInHUD\redbox.PNG</Source>
+      <Name>Textures\UInHUD\redbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\redbox.xnb</Output>
+      <Time>2013-03-04T12:09:29+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UInHUD\WizardSpells\darkness.png</Source>
+      <Name>Textures\UInHUD\WizardSpells\darkness</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\WizardSpells\darkness.xnb</Output>
+      <Time>2013-03-06T11:28:35+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UInHUD\WizardSpells\fire.png</Source>
+      <Name>Textures\UInHUD\WizardSpells\fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\WizardSpells\fire.xnb</Output>
+      <Time>2013-03-06T11:28:35+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UInHUD\WizardSpells\Rolling_Boulder_PNG.png</Source>
+      <Name>Textures\UInHUD\WizardSpells\Rolling_Boulder_PNG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\WizardSpells\Rolling_Boulder_PNG.xnb</Output>
+      <Time>2013-03-06T11:28:35+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UInHUD\manabar.png</Source>
+      <Name>Textures\UInHUD\manabar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\manabar.xnb</Output>
+      <Time>2013-03-07T10:00:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UInHUD\mana.png</Source>
+      <Name>Textures\UInHUD\mana</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\mana.xnb</Output>
+      <Time>2013-03-07T10:00:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UInHUD\WizardSpells\glue.png</Source>
+      <Name>Textures\UInHUD\WizardSpells\glue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\WizardSpells\glue.xnb</Output>
+      <Time>2013-03-07T13:53:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UInHUD\WizardSpells\teleport.png</Source>
+      <Name>Textures\UInHUD\WizardSpells\teleport</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\WizardSpells\teleport.xnb</Output>
+      <Time>2013-03-07T14:05:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UInHUD\WizardSpells\iceage.png</Source>
+      <Name>Textures\UInHUD\WizardSpells\iceage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\WizardSpells\iceage.xnb</Output>
+      <Time>2013-03-07T15:05:57+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UInHUD\warrows.png</Source>
+      <Name>Textures\UInHUD\warrows</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\warrows.xnb</Output>
+      <Time>2013-03-08T12:50:27+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Monsters\Ogre.png</Source>
+      <Name>Textures\Sprites\Monsters\Ogre</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Monsters\Ogre.xnb</Output>
+      <Time>2013-03-08T15:20:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Monsters\Skeleton.png</Source>
+      <Name>Textures\Sprites\Monsters\Skeleton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Monsters\Skeleton.xnb</Output>
+      <Time>2013-03-11T11:41:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Monsters\Imp.png</Source>
+      <Name>Textures\Sprites\Monsters\Imp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\Monsters\Imp.xnb</Output>
+      <Time>2013-03-11T13:10:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\TileEffects\glue.png</Source>
+      <Name>Textures\Sprites\TileEffects\glue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\TileEffects\glue.xnb</Output>
+      <Time>2013-03-12T12:42:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\TileEffects\ice.PNG</Source>
+      <Name>Textures\Sprites\TileEffects\ice</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\Sprites\TileEffects\ice.xnb</Output>
+      <Time>2013-03-12T13:01:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UInHUD\WUI.png</Source>
+      <Name>Textures\UInHUD\WUI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\WUI.xnb</Output>
+      <Time>2013-03-19T12:34:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UInHUD\HeroSpells\heal.png</Source>
+      <Name>Textures\UInHUD\HeroSpells\heal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\Textures\UInHUD\HeroSpells\heal.xnb</Output>
+      <Time>2013-03-19T12:39:56+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{18521BA2-1556-4299-AA70-2969D19D6303}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTowerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\suk11mattias\Dropbox\Wizards Tower\Versions\WTRMK_V-0.9\WizardsTowerGame\WizardsTower\WizardsTower\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-07-24T16:32:10.3653734+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
